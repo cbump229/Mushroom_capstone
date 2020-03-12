@@ -1,3 +1,26 @@
+# Notebooks
+Capstone_Webscraper
+> Will scrape Mushroom.world for Mushroom features and images
+
+Create_Image_CSVs
+> Appends file for each scraped image ending in .jpg to the larger Dataframe/CSV
+
+Images_move_folders
+> First creates two folders for training/testing and then two folders in each of edible/indible images;then copiess images containing  "2" into training folders as holdout data. All other images will be put into the approriate edible/inedible training folders.
+
+Species_classifier
+> This notebook contains the code for gridsearching a neural network in order to find the best model with current data. As is this notebook took aproximately 16 hours to run.
+
+Edible_classifier
+> This notebook will run the neural network to classify if an image is Edible or Poisonous.
+
+Morel_classifier
+> This notebook will run the neural network to classift if an image is a True Morel or a False Morel.
+
+Analysis
+> Seperate notebook to calculate metric scores on the predictions made from each neural network classifier.
+
+
 # Problem Statement
 There are over 10,000 known species of mushrooms across the world; the goal of this project is to train neural networks to classify mushrooms based on their various features.
 

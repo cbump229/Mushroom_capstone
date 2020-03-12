@@ -130,6 +130,3 @@ dmypy.json
 
 #Mac Hidden File
 .DS_Store
-
-#Readme Jupiter notebook
-readme.ipynb
