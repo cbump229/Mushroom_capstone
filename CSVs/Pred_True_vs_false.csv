@@ -1,617 +1,617 @@
-file_name,predictions,actual_mushroom_type,Type
-OIP (100).jpeg,0,0,true_morel
-OIP (64).jpeg,0,0,true_morel
-OIP (65).jpeg,0,0,true_morel
-OIP (66).jpeg,0,0,true_morel
-OIP (67).jpeg,0,0,true_morel
-OIP (68).jpeg,0,0,true_morel
-OIP (69).jpeg,0,0,true_morel
-OIP (70).jpeg,0,0,true_morel
-OIP (71).jpeg,0,0,true_morel
-OIP (72).jpeg,0,0,true_morel
-OIP (73).jpeg,0,0,true_morel
-OIP (74).jpeg,0,0,true_morel
-OIP (75).jpeg,0,0,true_morel
-OIP (76).jpeg,1,0,true_morel
-OIP (77).jpeg,0,0,true_morel
-OIP (78).jpeg,0,0,true_morel
-OIP (79).jpeg,0,0,true_morel
-OIP (80).jpeg,1,0,true_morel
-OIP (81).jpeg,1,0,true_morel
-OIP (82).jpeg,0,0,true_morel
-OIP (83).jpeg,0,0,true_morel
-OIP (84).jpeg,0,0,true_morel
-OIP (85).jpeg,0,0,true_morel
-OIP (86).jpeg,0,0,true_morel
-OIP (87).jpeg,1,0,true_morel
-OIP (88).jpeg,0,0,true_morel
-OIP (89).jpeg,1,0,true_morel
-OIP (90).jpeg,0,0,true_morel
-OIP (91).jpeg,1,0,true_morel
-OIP (92).jpeg,0,0,true_morel
-OIP (93).jpeg,0,0,true_morel
-OIP (94).jpeg,0,0,true_morel
-OIP (95).jpeg,0,0,true_morel
-OIP (96).jpeg,1,0,true_morel
-OIP (97).jpeg,0,0,true_morel
-OIP (98).jpeg,0,0,true_morel
-OIP (99).jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.624.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.625.jpeg,1,0,true_morel
-OIP - 2020-03-04T145312.626.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.629.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.630.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.631.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.648.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.649.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.685.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.686.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.687.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.694.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.699.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.706.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.707.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.709.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.710.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.711.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.712.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.713.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.719.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.720.jpeg,1,0,true_morel
-OIP - 2020-03-04T145312.725.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.730.jpeg,1,0,true_morel
-OIP - 2020-03-04T145312.731.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.732.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.733.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.734.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.735.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.740.jpeg,1,0,true_morel
-OIP - 2020-03-04T145312.753.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.754.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.759.jpeg,1,0,true_morel
-OIP - 2020-03-04T145312.760.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.765.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.780.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.781.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.782.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.783.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.788.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.789.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.790.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.791.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.804.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.805.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.806.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.807.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.808.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.832.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.836.jpeg,1,0,true_morel
-OIP - 2020-03-04T145312.837.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.846.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.850.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.859.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.861.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.862.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.863.jpeg,1,0,true_morel
-OIP - 2020-03-04T145312.864.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.865.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.866.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.867.jpeg,1,0,true_morel
-OIP - 2020-03-04T145312.868.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.869.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.874.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.882.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.910.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.919.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.920.jpeg,1,0,true_morel
-OIP - 2020-03-04T145312.925.jpeg,1,0,true_morel
-OIP - 2020-03-04T145312.926.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.930.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.968.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.969.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.989.jpeg,0,0,true_morel
-OIP - 2020-03-04T145312.990.jpeg,0,0,true_morel
-OIP - 2020-03-04T145313.045.jpeg,0,0,true_morel
-OIP - 2020-03-04T145313.046.jpeg,0,0,true_morel
-OIP - 2020-03-04T145313.056.jpeg,0,0,true_morel
-OIP - 2020-03-04T145313.057.jpeg,0,0,true_morel
-OIP - 2020-03-04T145313.063.jpeg,0,0,true_morel
-OIP - 2020-03-04T145313.064.jpeg,0,0,true_morel
-OIP - 2020-03-04T145313.070.jpeg,0,0,true_morel
-OIP - 2020-03-04T145313.075.jpeg,0,0,true_morel
-OIP - 2020-03-04T145313.076.jpeg,0,0,true_morel
-OIP - 2020-03-04T145313.082.jpeg,1,0,true_morel
-OIP - 2020-03-04T145313.116.jpeg,0,0,true_morel
-OIP - 2020-03-04T145313.117.jpeg,1,0,true_morel
-OIP - 2020-03-04T145313.118.jpeg,0,0,true_morel
-OIP - 2020-03-04T145313.123.jpeg,0,0,true_morel
-OIP.jpeg,0,0,true_morel
-OP (1).jpeg,0,0,true_morel
-OP (2).jpeg,0,0,true_morel
-OP (3).jpeg,0,0,true_morel
-OP.jpeg,0,0,true_morel
-download (1).jpeg,0,0,true_morel
-download (10).jpeg,0,0,true_morel
-download (11).jpeg,0,0,true_morel
-download (12).jpeg,0,0,true_morel
-download (13).jpeg,0,0,true_morel
-download (14).jpeg,0,0,true_morel
-download (15).jpeg,0,0,true_morel
-download (16).jpeg,1,0,true_morel
-download (17).jpeg,0,0,true_morel
-download (18).jpeg,0,0,true_morel
-download (19).jpeg,1,0,true_morel
-download (2).jpeg,0,0,true_morel
-download (20).jpeg,0,0,true_morel
-download (21).jpeg,0,0,true_morel
-download (22).jpeg,0,0,true_morel
-download (23).jpeg,0,0,true_morel
-download (24).jpeg,0,0,true_morel
-download (25).jpeg,0,0,true_morel
-download (26).jpeg,0,0,true_morel
-download (27).jpeg,0,0,true_morel
-download (28).jpeg,0,0,true_morel
-download (29).jpeg,0,0,true_morel
-download (3).jpeg,0,0,true_morel
-download (30).jpeg,0,0,true_morel
-download (31).jpeg,0,0,true_morel
-download (32).jpeg,0,0,true_morel
-download (33).jpeg,0,0,true_morel
-download (34).jpeg,0,0,true_morel
-download (35).jpeg,0,0,true_morel
-download (36).jpeg,0,0,true_morel
-download (37).jpeg,1,0,true_morel
-download (4).jpeg,0,0,true_morel
-download (5).jpeg,0,0,true_morel
-download (6).jpeg,0,0,true_morel
-download (7).jpeg,0,0,true_morel
-download (8).jpeg,0,0,true_morel
-download (9).jpeg,0,0,true_morel
-th.jpeg,1,0,true_morel
-true_morel410.png,0,0,true_morel
-true_morel411.png,0,0,true_morel
-true_morel412.png,0,0,true_morel
-true_morel413.png,0,0,true_morel
-true_morel414.png,0,0,true_morel
-true_morel415.png,0,0,true_morel
-true_morel416.png,0,0,true_morel
-true_morel417.png,0,0,true_morel
-true_morel418.png,0,0,true_morel
-true_morel419.png,0,0,true_morel
-true_morel420.png,0,0,true_morel
-true_morel421.png,0,0,true_morel
-true_morel422.png,0,0,true_morel
-true_morel423.png,0,0,true_morel
-true_morel424.png,0,0,true_morel
-true_morel425.png,0,0,true_morel
-true_morel426.png,0,0,true_morel
-true_morel427.png,0,0,true_morel
-true_morel428.png,0,0,true_morel
-true_morel429.png,0,0,true_morel
-true_morel430.png,0,0,true_morel
-true_morel431.png,0,0,true_morel
-true_morel432.png,0,0,true_morel
-true_morel433.png,0,0,true_morel
-true_morel434.png,0,0,true_morel
-true_morel435.png,0,0,true_morel
-true_morel436.png,0,0,true_morel
-true_morel437.png,0,0,true_morel
-true_morel438.png,0,0,true_morel
-true_morel439.png,0,0,true_morel
-true_morel440.png,0,0,true_morel
-true_morel441.png,0,0,true_morel
-true_morel442.png,0,0,true_morel
-true_morel443.png,0,0,true_morel
-true_morel444.png,0,0,true_morel
-true_morel445.png,0,0,true_morel
-true_morel446.png,0,0,true_morel
-true_morel447.png,0,0,true_morel
-true_morel448.png,0,0,true_morel
-true_morel449.png,0,0,true_morel
-true_morel450.png,0,0,true_morel
-true_morel451.png,0,0,true_morel
-true_morel452.png,0,0,true_morel
-true_morel453.png,0,0,true_morel
-true_morel454.png,0,0,true_morel
-true_morel455.png,0,0,true_morel
-true_morel456.png,0,0,true_morel
-true_morel457.png,0,0,true_morel
-true_morel458.png,0,0,true_morel
-true_morel459.png,0,0,true_morel
-true_morel460.png,1,0,true_morel
-true_morel461.png,0,0,true_morel
-true_morel462.png,0,0,true_morel
-true_morel463.png,1,0,true_morel
-true_morel464.png,0,0,true_morel
-true_morel465.png,0,0,true_morel
-true_morel466.png,0,0,true_morel
-true_morel467.png,0,0,true_morel
-true_morel468.png,0,0,true_morel
-true_morel469.png,0,0,true_morel
-true_morel470.png,0,0,true_morel
-true_morel471.png,0,0,true_morel
-true_morel472.png,0,0,true_morel
-true_morel473.png,0,0,true_morel
-true_morel474.png,0,0,true_morel
-true_morel475.png,0,0,true_morel
-true_morel476.png,0,0,true_morel
-true_morel477.png,0,0,true_morel
-true_morel478.png,0,0,true_morel
-true_morel479.png,0,0,true_morel
-true_morel480.png,0,0,true_morel
-true_morel481.png,0,0,true_morel
-true_morel482.png,0,0,true_morel
-true_morel483.png,0,0,true_morel
-true_morel484.png,0,0,true_morel
-true_morel485.png,0,0,true_morel
-true_morel486.png,0,0,true_morel
-true_morel487.png,0,0,true_morel
-true_morel488.png,1,0,true_morel
-true_morel489.png,0,0,true_morel
-true_morel490.png,0,0,true_morel
-true_morel491.png,0,0,true_morel
-true_morel493.png,1,0,true_morel
-true_morel494.png,0,0,true_morel
-true_morel495.png,0,0,true_morel
-true_morel496.png,0,0,true_morel
-true_morel497.png,0,0,true_morel
-true_morel498.png,0,0,true_morel
-true_morel499.png,0,0,true_morel
-true_morel500.png,1,0,true_morel
-true_morel501.png,0,0,true_morel
-true_morel502.png,0,0,true_morel
-true_morel503.png,0,0,true_morel
-true_morel504.png,0,0,true_morel
-true_morel505.png,1,0,true_morel
-true_morel506.png,0,0,true_morel
-true_morel507.png,1,0,true_morel
-true_morel508.png,0,0,true_morel
-true_morel509.png,0,0,true_morel
-true_morel510.png,0,0,true_morel
-true_morel511.png,0,0,true_morel
-true_morel512.png,0,0,true_morel
-true_morel513.png,0,0,true_morel
-true_morel514.png,0,0,true_morel
-true_morel515.png,0,0,true_morel
-true_morel516.png,0,0,true_morel
-true_morel517.png,0,0,true_morel
-true_morel518.png,0,0,true_morel
-true_morel519.png,0,0,true_morel
-true_morel520.png,0,0,true_morel
-true_morel521.png,1,0,true_morel
-true_morel522.png,0,0,true_morel
-true_morel523.png,0,0,true_morel
-true_morel524.png,0,0,true_morel
-true_morel525.png,0,0,true_morel
-true_morel526.png,0,0,true_morel
-true_morel527.png,0,0,true_morel
-true_morel528.png,0,0,true_morel
-true_morel529.png,0,0,true_morel
-true_morel530.png,0,0,true_morel
-true_morel531.png,1,0,true_morel
-true_morel532.png,0,0,true_morel
-OIP - 2020-03-04T145542.245.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.255.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.272.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.276.jpeg,0,1,false_morel
-OIP - 2020-03-04T145542.279.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.285.jpeg,0,1,false_morel
-OIP - 2020-03-04T145542.286.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.293.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.294.jpeg,0,1,false_morel
-OIP - 2020-03-04T145542.295.jpeg,0,1,false_morel
-OIP - 2020-03-04T145542.303.jpeg,0,1,false_morel
-OIP - 2020-03-04T145542.304.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.306.jpeg,0,1,false_morel
-OIP - 2020-03-04T145542.308.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.322.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.323.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.330.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.335.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.361.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.364.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.366.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.400.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.401.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.402.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.404.jpeg,0,1,false_morel
-OIP - 2020-03-04T145542.407.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.408.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.410.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.411.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.412.jpeg,1,1,false_morel
-OIP - 2020-03-04T145542.413.jpeg,1,1,false_morel
-OIP - 2020-03-04T145829.632.jpeg,1,1,false_morel
-OIP - 2020-03-04T145829.645.jpeg,1,1,false_morel
-OIP - 2020-03-04T145829.649.jpeg,1,1,false_morel
-OIP - 2020-03-04T145829.654.jpeg,0,1,false_morel
-OIP - 2020-03-04T145829.671.jpeg,1,1,false_morel
-OIP - 2020-03-04T145829.672.jpeg,0,1,false_morel
-OIP - 2020-03-04T145829.683.jpeg,1,1,false_morel
-OIP - 2020-03-04T145829.688.jpeg,1,1,false_morel
-OIP - 2020-03-04T145829.703.jpeg,1,1,false_morel
-OIP - 2020-03-04T145829.706.jpeg,1,1,false_morel
-OIP - 2020-03-04T145829.708.jpeg,1,1,false_morel
-OIP - 2020-03-04T145829.709.jpeg,0,1,false_morel
-OIP - 2020-03-04T145829.712.jpeg,0,1,false_morel
-OIP - 2020-03-04T145829.714.jpeg,1,1,false_morel
-OIP - 2020-03-04T145829.715.jpeg,1,1,false_morel
-OIP - 2020-03-04T145829.716.jpeg,1,1,false_morel
-OIP - 2020-03-04T145829.718.jpeg,1,1,false_morel
-OIP - 2020-03-04T145829.719.jpeg,1,1,false_morel
-OIP - 2020-03-04T145829.720.jpeg,1,1,false_morel
-OIP - 2020-03-04T145829.721.jpeg,0,1,false_morel
-OIP - 2020-03-04T145829.726.jpeg,1,1,false_morel
-OIP - 2020-03-04T145829.727.jpeg,1,1,false_morel
-OIP - 2020-03-04T145829.728.jpeg,1,1,false_morel
-OIP - 2020-03-04T145829.731.jpeg,1,1,false_morel
-OIP - 2020-03-04T145829.744.jpeg,0,1,false_morel
-OIP - 2020-03-04T145829.745.jpeg,0,1,false_morel
-download (1).jpeg,1,1,false_morel
-download (10).jpeg,1,1,false_morel
-download (11).jpeg,1,1,false_morel
-download (12).jpeg,1,1,false_morel
-download (13).jpeg,1,1,false_morel
-download (14).jpeg,1,1,false_morel
-download (15).jpeg,1,1,false_morel
-download (16).jpeg,1,1,false_morel
-download (17).jpeg,1,1,false_morel
-download (18).jpeg,1,1,false_morel
-download (19).jpeg,1,1,false_morel
-download (2).jpeg,1,1,false_morel
-download (20).jpeg,1,1,false_morel
-download (21).jpeg,1,1,false_morel
-download (22).jpeg,1,1,false_morel
-download (23).jpeg,1,1,false_morel
-download (24).jpeg,1,1,false_morel
-download (25).jpeg,1,1,false_morel
-download (26).jpeg,1,1,false_morel
-download (27).jpeg,1,1,false_morel
-download (28).jpeg,1,1,false_morel
-download (29).jpeg,1,1,false_morel
-download (3).jpeg,1,1,false_morel
-download (30).jpeg,0,1,false_morel
-download (31).jpeg,1,1,false_morel
-download (32).jpeg,1,1,false_morel
-download (33).jpeg,1,1,false_morel
-download (34).jpeg,1,1,false_morel
-download (35).jpeg,0,1,false_morel
-download (36).jpeg,1,1,false_morel
-download (37).jpeg,0,1,false_morel
-download (38).jpeg,1,1,false_morel
-download (4).jpeg,1,1,false_morel
-download (5).jpeg,0,1,false_morel
-download (6).jpeg,1,1,false_morel
-download (7).jpeg,1,1,false_morel
-download (8).jpeg,1,1,false_morel
-download (9).jpeg,0,1,false_morel
-false_morel1000.png,1,1,false_morel
-false_morel1001.png,1,1,false_morel
-false_morel1002.png,0,1,false_morel
-false_morel1003.png,0,1,false_morel
-false_morel1004.png,1,1,false_morel
-false_morel1005.png,1,1,false_morel
-false_morel1006.png,1,1,false_morel
-false_morel1007.png,1,1,false_morel
-false_morel1008.png,1,1,false_morel
-false_morel1009.png,1,1,false_morel
-false_morel1010.png,0,1,false_morel
-false_morel1011.png,1,1,false_morel
-false_morel1012.png,1,1,false_morel
-false_morel1013.png,1,1,false_morel
-false_morel1014.png,1,1,false_morel
-false_morel1015.png,1,1,false_morel
-false_morel1016.png,1,1,false_morel
-false_morel1017.png,1,1,false_morel
-false_morel1018.png,1,1,false_morel
-false_morel1019.png,1,1,false_morel
-false_morel1020.png,1,1,false_morel
-false_morel1021.png,1,1,false_morel
-false_morel1022.png,1,1,false_morel
-false_morel1023.png,1,1,false_morel
-false_morel1024.png,1,1,false_morel
-false_morel1025.png,1,1,false_morel
-false_morel1026.png,0,1,false_morel
-false_morel1027.png,1,1,false_morel
-false_morel1028.png,1,1,false_morel
-false_morel1029.png,1,1,false_morel
-false_morel1030.png,1,1,false_morel
-false_morel1031.png,1,1,false_morel
-false_morel1032.png,0,1,false_morel
-false_morel1033.png,1,1,false_morel
-false_morel1034.png,1,1,false_morel
-false_morel1035.png,1,1,false_morel
-false_morel1036.png,0,1,false_morel
-false_morel1037.png,1,1,false_morel
-false_morel1038.png,1,1,false_morel
-false_morel1039.png,0,1,false_morel
-false_morel1040.png,1,1,false_morel
-false_morel1041.png,1,1,false_morel
-false_morel1042.png,1,1,false_morel
-false_morel1043.png,1,1,false_morel
-false_morel1044.png,1,1,false_morel
-false_morel1045.png,1,1,false_morel
-false_morel1046.png,1,1,false_morel
-false_morel1047.png,1,1,false_morel
-false_morel1048.png,1,1,false_morel
-false_morel1049.png,1,1,false_morel
-false_morel1050.png,1,1,false_morel
-false_morel1051.png,1,1,false_morel
-false_morel1052.png,1,1,false_morel
-false_morel1053.png,1,1,false_morel
-false_morel1054.png,1,1,false_morel
-false_morel1055.png,1,1,false_morel
-false_morel1056.png,1,1,false_morel
-false_morel1057.png,0,1,false_morel
-false_morel1058.png,1,1,false_morel
-false_morel1059.png,1,1,false_morel
-false_morel1060.png,1,1,false_morel
-false_morel1061.png,1,1,false_morel
-false_morel1062.png,1,1,false_morel
-false_morel1063.png,1,1,false_morel
-false_morel1064.png,1,1,false_morel
-false_morel1065.png,1,1,false_morel
-false_morel1066.png,0,1,false_morel
-false_morel1067.png,1,1,false_morel
-false_morel1068.png,1,1,false_morel
-false_morel1069.png,0,1,false_morel
-false_morel1070.png,1,1,false_morel
-false_morel1071.png,1,1,false_morel
-false_morel1072.png,1,1,false_morel
-false_morel1073.png,0,1,false_morel
-false_morel1074.png,1,1,false_morel
-false_morel1075.png,1,1,false_morel
-false_morel1076.png,1,1,false_morel
-false_morel1077.png,1,1,false_morel
-false_morel1078.png,1,1,false_morel
-false_morel1079.png,1,1,false_morel
-false_morel1080.png,0,1,false_morel
-false_morel1081.png,1,1,false_morel
-false_morel1082.png,1,1,false_morel
-false_morel1083.png,1,1,false_morel
-false_morel1084.png,1,1,false_morel
-false_morel1085.png,1,1,false_morel
-false_morel1086.png,0,1,false_morel
-false_morel1087.png,1,1,false_morel
-false_morel1088.png,1,1,false_morel
-false_morel1089.png,1,1,false_morel
-false_morel1090.png,1,1,false_morel
-false_morel1091.png,1,1,false_morel
-false_morel1092.png,1,1,false_morel
-false_morel1093.png,1,1,false_morel
-false_morel1094.png,1,1,false_morel
-false_morel1095.png,1,1,false_morel
-false_morel1096.png,1,1,false_morel
-false_morel1097.png,1,1,false_morel
-false_morel1098.png,1,1,false_morel
-false_morel1099.png,1,1,false_morel
-false_morel1100.png,1,1,false_morel
-false_morel1101.png,1,1,false_morel
-false_morel1102.png,1,1,false_morel
-false_morel1103.png,1,1,false_morel
-false_morel1104.png,1,1,false_morel
-false_morel1105.png,1,1,false_morel
-false_morel1106.png,0,1,false_morel
-false_morel1107.png,1,1,false_morel
-false_morel1108.png,0,1,false_morel
-false_morel1109.png,1,1,false_morel
-false_morel1111.png,1,1,false_morel
-false_morel1112.png,1,1,false_morel
-false_morel1113.png,0,1,false_morel
-false_morel1114.png,1,1,false_morel
-false_morel1115.png,1,1,false_morel
-false_morel1116.png,0,1,false_morel
-false_morel1117.png,0,1,false_morel
-false_morel1118.png,0,1,false_morel
-false_morel1119.png,0,1,false_morel
-false_morel1120.png,1,1,false_morel
-false_morel1121.png,0,1,false_morel
-false_morel1122.png,0,1,false_morel
-false_morel1123.png,1,1,false_morel
-false_morel1124.png,1,1,false_morel
-false_morel1125.png,1,1,false_morel
-false_morel1126.png,1,1,false_morel
-false_morel1127.png,0,1,false_morel
-false_morel897.png,1,1,false_morel
-false_morel898.png,0,1,false_morel
-false_morel899.png,1,1,false_morel
-false_morel900.png,1,1,false_morel
-false_morel901.png,0,1,false_morel
-false_morel902.png,1,1,false_morel
-false_morel903.png,1,1,false_morel
-false_morel904.png,1,1,false_morel
-false_morel905.png,1,1,false_morel
-false_morel906.png,1,1,false_morel
-false_morel907.png,1,1,false_morel
-false_morel908.png,1,1,false_morel
-false_morel909.png,1,1,false_morel
-false_morel910.png,1,1,false_morel
-false_morel911.png,1,1,false_morel
-false_morel912.png,1,1,false_morel
-false_morel913.png,1,1,false_morel
-false_morel914.png,1,1,false_morel
-false_morel915.png,0,1,false_morel
-false_morel916.png,1,1,false_morel
-false_morel917.png,1,1,false_morel
-false_morel918.png,1,1,false_morel
-false_morel919.png,0,1,false_morel
-false_morel920.png,1,1,false_morel
-false_morel921.png,1,1,false_morel
-false_morel922.png,0,1,false_morel
-false_morel923.png,1,1,false_morel
-false_morel924.png,1,1,false_morel
-false_morel925.png,1,1,false_morel
-false_morel926.png,1,1,false_morel
-false_morel927.png,1,1,false_morel
-false_morel928.png,1,1,false_morel
-false_morel929.png,1,1,false_morel
-false_morel930.png,1,1,false_morel
-false_morel931.png,1,1,false_morel
-false_morel932.png,0,1,false_morel
-false_morel933.png,1,1,false_morel
-false_morel934.png,1,1,false_morel
-false_morel935.png,1,1,false_morel
-false_morel936.png,1,1,false_morel
-false_morel937.png,1,1,false_morel
-false_morel938.png,1,1,false_morel
-false_morel939.png,1,1,false_morel
-false_morel940.png,1,1,false_morel
-false_morel941.png,1,1,false_morel
-false_morel942.png,1,1,false_morel
-false_morel943.png,1,1,false_morel
-false_morel944.png,1,1,false_morel
-false_morel945.png,1,1,false_morel
-false_morel946.png,0,1,false_morel
-false_morel947.png,1,1,false_morel
-false_morel948.png,1,1,false_morel
-false_morel949.png,1,1,false_morel
-false_morel950.png,1,1,false_morel
-false_morel951.png,1,1,false_morel
-false_morel952.png,1,1,false_morel
-false_morel953.png,1,1,false_morel
-false_morel954.png,1,1,false_morel
-false_morel955.png,0,1,false_morel
-false_morel956.png,1,1,false_morel
-false_morel957.png,0,1,false_morel
-false_morel958.png,1,1,false_morel
-false_morel959.png,1,1,false_morel
-false_morel960.png,1,1,false_morel
-false_morel961.png,0,1,false_morel
-false_morel962.png,0,1,false_morel
-false_morel963.png,1,1,false_morel
-false_morel964.png,1,1,false_morel
-false_morel965.png,1,1,false_morel
-false_morel966.png,1,1,false_morel
-false_morel967.png,1,1,false_morel
-false_morel968.png,0,1,false_morel
-false_morel969.png,0,1,false_morel
-false_morel970.png,1,1,false_morel
-false_morel971.png,1,1,false_morel
-false_morel972.png,1,1,false_morel
-false_morel973.png,1,1,false_morel
-false_morel974.png,1,1,false_morel
-false_morel975.png,1,1,false_morel
-false_morel976.png,1,1,false_morel
-false_morel977.png,1,1,false_morel
-false_morel978.png,1,1,false_morel
-false_morel979.png,1,1,false_morel
-false_morel980.png,1,1,false_morel
-false_morel981.png,0,1,false_morel
-false_morel982.png,1,1,false_morel
-false_morel983.png,1,1,false_morel
-false_morel984.png,1,1,false_morel
-false_morel985.png,1,1,false_morel
-false_morel986.png,1,1,false_morel
-false_morel987.png,0,1,false_morel
-false_morel988.png,1,1,false_morel
-false_morel989.png,0,1,false_morel
-false_morel990.png,1,1,false_morel
-false_morel991.png,1,1,false_morel
-false_morel992.png,0,1,false_morel
-false_morel993.png,1,1,false_morel
-false_morel994.png,1,1,false_morel
-false_morel995.png,1,1,false_morel
-false_morel996.png,0,1,false_morel
-false_morel997.png,1,1,false_morel
-false_morel998.png,0,1,false_morel
-false_morel999.png,1,1,false_morel
+file_name,predictions,predictions_proba,actual_mushroom_type,Type
+OIP (100).jpeg,0,0.0,0,true_morel
+OIP (64).jpeg,0,0.0,0,true_morel
+OIP (65).jpeg,1,1.0,0,true_morel
+OIP (66).jpeg,0,0.0,0,true_morel
+OIP (67).jpeg,0,0.0,0,true_morel
+OIP (68).jpeg,0,0.0,0,true_morel
+OIP (69).jpeg,0,0.0,0,true_morel
+OIP (70).jpeg,0,0.0,0,true_morel
+OIP (71).jpeg,0,0.0,0,true_morel
+OIP (72).jpeg,0,0.0,0,true_morel
+OIP (73).jpeg,0,0.0,0,true_morel
+OIP (74).jpeg,0,0.0,0,true_morel
+OIP (75).jpeg,0,0.0,0,true_morel
+OIP (76).jpeg,1,1.0,0,true_morel
+OIP (77).jpeg,0,0.0,0,true_morel
+OIP (78).jpeg,0,0.0,0,true_morel
+OIP (79).jpeg,0,0.0,0,true_morel
+OIP (80).jpeg,1,1.0,0,true_morel
+OIP (81).jpeg,1,1.0,0,true_morel
+OIP (82).jpeg,0,0.0,0,true_morel
+OIP (83).jpeg,0,0.0,0,true_morel
+OIP (84).jpeg,0,0.0,0,true_morel
+OIP (85).jpeg,0,0.0,0,true_morel
+OIP (86).jpeg,0,0.0,0,true_morel
+OIP (87).jpeg,1,1.0,0,true_morel
+OIP (88).jpeg,0,0.0,0,true_morel
+OIP (89).jpeg,1,1.0,0,true_morel
+OIP (90).jpeg,0,0.0,0,true_morel
+OIP (91).jpeg,1,1.0,0,true_morel
+OIP (92).jpeg,0,0.0,0,true_morel
+OIP (93).jpeg,0,0.0,0,true_morel
+OIP (94).jpeg,0,0.0,0,true_morel
+OIP (95).jpeg,0,0.0,0,true_morel
+OIP (96).jpeg,1,1.0,0,true_morel
+OIP (97).jpeg,0,1.1285530326706989e-17,0,true_morel
+OIP (98).jpeg,0,0.0,0,true_morel
+OIP (99).jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.624.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.625.jpeg,1,1.0,0,true_morel
+OIP - 2020-03-04T145312.626.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.629.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.630.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.631.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.648.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.649.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.685.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.686.jpeg,1,1.0,0,true_morel
+OIP - 2020-03-04T145312.687.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.694.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.699.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.706.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.707.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.709.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.710.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.711.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.712.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.713.jpeg,0,1.6894854791430283e-14,0,true_morel
+OIP - 2020-03-04T145312.719.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.720.jpeg,1,1.0,0,true_morel
+OIP - 2020-03-04T145312.725.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.730.jpeg,1,1.0,0,true_morel
+OIP - 2020-03-04T145312.731.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.732.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.733.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.734.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.735.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.740.jpeg,1,1.0,0,true_morel
+OIP - 2020-03-04T145312.753.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.754.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.759.jpeg,1,1.0,0,true_morel
+OIP - 2020-03-04T145312.760.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.765.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.780.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.781.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.782.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.783.jpeg,1,1.0,0,true_morel
+OIP - 2020-03-04T145312.788.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.789.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.790.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.791.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.804.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.805.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.806.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.807.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.808.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.832.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.836.jpeg,0,2.069920412850479e-08,0,true_morel
+OIP - 2020-03-04T145312.837.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.846.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.850.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.859.jpeg,1,1.0,0,true_morel
+OIP - 2020-03-04T145312.861.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.862.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.863.jpeg,1,1.0,0,true_morel
+OIP - 2020-03-04T145312.864.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.865.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.866.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.867.jpeg,0,5.988279339015655e-27,0,true_morel
+OIP - 2020-03-04T145312.868.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.869.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.874.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.882.jpeg,1,1.0,0,true_morel
+OIP - 2020-03-04T145312.910.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.919.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.920.jpeg,0,6.676184236492531e-18,0,true_morel
+OIP - 2020-03-04T145312.925.jpeg,1,1.0,0,true_morel
+OIP - 2020-03-04T145312.926.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.930.jpeg,0,5.660434787557733e-09,0,true_morel
+OIP - 2020-03-04T145312.968.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.969.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.989.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145312.990.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145313.045.jpeg,0,1.0464101000059483e-28,0,true_morel
+OIP - 2020-03-04T145313.046.jpeg,0,5.362305353522622e-22,0,true_morel
+OIP - 2020-03-04T145313.056.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145313.057.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145313.063.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145313.064.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145313.070.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145313.075.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145313.076.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145313.082.jpeg,1,1.0,0,true_morel
+OIP - 2020-03-04T145313.116.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145313.117.jpeg,1,1.0,0,true_morel
+OIP - 2020-03-04T145313.118.jpeg,0,0.0,0,true_morel
+OIP - 2020-03-04T145313.123.jpeg,0,0.0,0,true_morel
+OIP.jpeg,0,0.0,0,true_morel
+OP (1).jpeg,1,1.0,0,true_morel
+OP (2).jpeg,0,0.0,0,true_morel
+OP (3).jpeg,0,0.0,0,true_morel
+OP.jpeg,0,0.0,0,true_morel
+download (1).jpeg,0,0.0,0,true_morel
+download (10).jpeg,0,0.0,0,true_morel
+download (11).jpeg,0,0.0,0,true_morel
+download (12).jpeg,0,0.0,0,true_morel
+download (13).jpeg,0,0.0,0,true_morel
+download (14).jpeg,0,0.0,0,true_morel
+download (15).jpeg,0,0.0,0,true_morel
+download (16).jpeg,1,1.0,0,true_morel
+download (17).jpeg,0,0.0,0,true_morel
+download (18).jpeg,0,0.0,0,true_morel
+download (19).jpeg,1,1.0,0,true_morel
+download (2).jpeg,0,0.0,0,true_morel
+download (20).jpeg,0,0.0,0,true_morel
+download (21).jpeg,0,0.0,0,true_morel
+download (22).jpeg,0,0.0,0,true_morel
+download (23).jpeg,0,0.0,0,true_morel
+download (24).jpeg,0,0.0,0,true_morel
+download (25).jpeg,0,0.0,0,true_morel
+download (26).jpeg,0,0.0,0,true_morel
+download (27).jpeg,0,2.71316894213669e-05,0,true_morel
+download (28).jpeg,0,0.0,0,true_morel
+download (29).jpeg,0,0.0,0,true_morel
+download (3).jpeg,0,0.0,0,true_morel
+download (30).jpeg,0,0.0,0,true_morel
+download (31).jpeg,0,0.0,0,true_morel
+download (32).jpeg,0,0.0,0,true_morel
+download (33).jpeg,0,0.0,0,true_morel
+download (34).jpeg,0,0.0,0,true_morel
+download (35).jpeg,0,0.0,0,true_morel
+download (36).jpeg,0,0.0,0,true_morel
+download (37).jpeg,1,1.0,0,true_morel
+download (4).jpeg,0,0.0,0,true_morel
+download (5).jpeg,0,0.0,0,true_morel
+download (6).jpeg,0,2.71316894213669e-05,0,true_morel
+download (7).jpeg,0,0.0,0,true_morel
+download (8).jpeg,0,0.0,0,true_morel
+download (9).jpeg,0,0.0,0,true_morel
+th.jpeg,1,1.0,0,true_morel
+true_morel410.png,1,1.0,0,true_morel
+true_morel411.png,0,0.0,0,true_morel
+true_morel412.png,0,0.0,0,true_morel
+true_morel413.png,0,0.0,0,true_morel
+true_morel414.png,1,1.0,0,true_morel
+true_morel415.png,0,0.0,0,true_morel
+true_morel416.png,0,0.0,0,true_morel
+true_morel417.png,0,0.0,0,true_morel
+true_morel418.png,0,0.0,0,true_morel
+true_morel419.png,0,0.0,0,true_morel
+true_morel420.png,0,0.0,0,true_morel
+true_morel421.png,0,0.0,0,true_morel
+true_morel422.png,0,0.0,0,true_morel
+true_morel423.png,0,0.0,0,true_morel
+true_morel424.png,0,0.0,0,true_morel
+true_morel425.png,0,0.0,0,true_morel
+true_morel426.png,0,0.0,0,true_morel
+true_morel427.png,0,0.0,0,true_morel
+true_morel428.png,0,0.0,0,true_morel
+true_morel429.png,0,0.0,0,true_morel
+true_morel430.png,0,0.0,0,true_morel
+true_morel431.png,0,0.0,0,true_morel
+true_morel432.png,0,0.0,0,true_morel
+true_morel433.png,0,0.0,0,true_morel
+true_morel434.png,0,0.0,0,true_morel
+true_morel435.png,0,0.0,0,true_morel
+true_morel436.png,0,0.0,0,true_morel
+true_morel437.png,0,0.0,0,true_morel
+true_morel438.png,0,0.0,0,true_morel
+true_morel439.png,0,0.0,0,true_morel
+true_morel440.png,0,0.0,0,true_morel
+true_morel441.png,0,0.0,0,true_morel
+true_morel442.png,0,0.0,0,true_morel
+true_morel443.png,0,0.0,0,true_morel
+true_morel444.png,0,0.0,0,true_morel
+true_morel445.png,0,0.0,0,true_morel
+true_morel446.png,0,0.0,0,true_morel
+true_morel447.png,1,1.0,0,true_morel
+true_morel448.png,0,0.0,0,true_morel
+true_morel449.png,0,0.0,0,true_morel
+true_morel450.png,1,1.0,0,true_morel
+true_morel451.png,0,0.0,0,true_morel
+true_morel452.png,0,0.0,0,true_morel
+true_morel453.png,0,0.0,0,true_morel
+true_morel454.png,0,0.0,0,true_morel
+true_morel455.png,0,0.0,0,true_morel
+true_morel456.png,0,0.0,0,true_morel
+true_morel457.png,0,0.0,0,true_morel
+true_morel458.png,0,0.0,0,true_morel
+true_morel459.png,0,0.0,0,true_morel
+true_morel460.png,1,1.0,0,true_morel
+true_morel461.png,0,0.0,0,true_morel
+true_morel462.png,0,6.680196050570352e-37,0,true_morel
+true_morel463.png,1,1.0,0,true_morel
+true_morel464.png,0,0.0,0,true_morel
+true_morel465.png,0,0.0,0,true_morel
+true_morel466.png,0,0.0,0,true_morel
+true_morel467.png,0,0.0,0,true_morel
+true_morel468.png,0,0.0,0,true_morel
+true_morel469.png,0,7.4730760791261e-15,0,true_morel
+true_morel470.png,0,0.0,0,true_morel
+true_morel471.png,0,0.0,0,true_morel
+true_morel472.png,0,0.0,0,true_morel
+true_morel473.png,0,0.0,0,true_morel
+true_morel474.png,0,0.0,0,true_morel
+true_morel475.png,0,0.0,0,true_morel
+true_morel476.png,1,1.0,0,true_morel
+true_morel477.png,0,0.0,0,true_morel
+true_morel478.png,1,1.0,0,true_morel
+true_morel479.png,0,0.0,0,true_morel
+true_morel480.png,0,0.0,0,true_morel
+true_morel481.png,0,0.0,0,true_morel
+true_morel482.png,0,0.0,0,true_morel
+true_morel483.png,0,0.0,0,true_morel
+true_morel484.png,0,0.0,0,true_morel
+true_morel485.png,0,0.0,0,true_morel
+true_morel486.png,0,0.0,0,true_morel
+true_morel487.png,0,0.0,0,true_morel
+true_morel488.png,1,1.0,0,true_morel
+true_morel489.png,0,0.0,0,true_morel
+true_morel490.png,0,0.0,0,true_morel
+true_morel491.png,0,0.0,0,true_morel
+true_morel493.png,1,1.0,0,true_morel
+true_morel494.png,0,0.0,0,true_morel
+true_morel495.png,0,0.0,0,true_morel
+true_morel496.png,0,0.0,0,true_morel
+true_morel497.png,1,1.0,0,true_morel
+true_morel498.png,0,0.0,0,true_morel
+true_morel499.png,0,0.0,0,true_morel
+true_morel500.png,1,1.0,0,true_morel
+true_morel501.png,0,0.0,0,true_morel
+true_morel502.png,0,0.0,0,true_morel
+true_morel503.png,1,0.6156025528907776,0,true_morel
+true_morel504.png,0,0.0,0,true_morel
+true_morel505.png,1,1.0,0,true_morel
+true_morel506.png,0,0.0,0,true_morel
+true_morel507.png,0,0.0,0,true_morel
+true_morel508.png,0,0.0,0,true_morel
+true_morel509.png,0,0.0,0,true_morel
+true_morel510.png,0,0.0,0,true_morel
+true_morel511.png,0,0.0,0,true_morel
+true_morel512.png,0,0.0,0,true_morel
+true_morel513.png,0,0.0,0,true_morel
+true_morel514.png,0,0.0,0,true_morel
+true_morel515.png,0,0.0,0,true_morel
+true_morel516.png,0,0.0,0,true_morel
+true_morel517.png,0,0.0,0,true_morel
+true_morel518.png,0,0.0,0,true_morel
+true_morel519.png,0,0.0,0,true_morel
+true_morel520.png,0,0.0,0,true_morel
+true_morel521.png,1,1.0,0,true_morel
+true_morel522.png,0,0.0,0,true_morel
+true_morel523.png,0,0.0,0,true_morel
+true_morel524.png,0,0.0,0,true_morel
+true_morel525.png,0,0.0,0,true_morel
+true_morel526.png,0,0.0,0,true_morel
+true_morel527.png,0,0.0,0,true_morel
+true_morel528.png,0,0.0,0,true_morel
+true_morel529.png,0,0.0,0,true_morel
+true_morel530.png,1,1.0,0,true_morel
+true_morel531.png,1,1.0,0,true_morel
+true_morel532.png,0,0.0,0,true_morel
+OIP - 2020-03-04T145542.245.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145542.255.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145542.272.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145542.276.jpeg,0,0.0,1,false_morel
+OIP - 2020-03-04T145542.279.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145542.285.jpeg,0,0.0,1,false_morel
+OIP - 2020-03-04T145542.286.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145542.293.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145542.294.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145542.295.jpeg,0,0.0,1,false_morel
+OIP - 2020-03-04T145542.303.jpeg,0,0.0,1,false_morel
+OIP - 2020-03-04T145542.304.jpeg,0,0.0,1,false_morel
+OIP - 2020-03-04T145542.306.jpeg,0,0.0,1,false_morel
+OIP - 2020-03-04T145542.308.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145542.322.jpeg,0,0.0,1,false_morel
+OIP - 2020-03-04T145542.323.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145542.330.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145542.335.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145542.361.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145542.364.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145542.366.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145542.400.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145542.401.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145542.402.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145542.404.jpeg,0,0.0,1,false_morel
+OIP - 2020-03-04T145542.407.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145542.408.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145542.410.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145542.411.jpeg,0,1.6986287003156256e-19,1,false_morel
+OIP - 2020-03-04T145542.412.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145542.413.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145829.632.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145829.645.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145829.649.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145829.654.jpeg,0,0.0,1,false_morel
+OIP - 2020-03-04T145829.671.jpeg,0,0.0,1,false_morel
+OIP - 2020-03-04T145829.672.jpeg,0,0.0,1,false_morel
+OIP - 2020-03-04T145829.683.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145829.688.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145829.703.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145829.706.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145829.708.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145829.709.jpeg,1,0.968721866607666,1,false_morel
+OIP - 2020-03-04T145829.712.jpeg,0,0.0,1,false_morel
+OIP - 2020-03-04T145829.714.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145829.715.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145829.716.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145829.718.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145829.719.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145829.720.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145829.721.jpeg,0,0.0,1,false_morel
+OIP - 2020-03-04T145829.726.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145829.727.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145829.728.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145829.731.jpeg,1,1.0,1,false_morel
+OIP - 2020-03-04T145829.744.jpeg,0,0.0,1,false_morel
+OIP - 2020-03-04T145829.745.jpeg,0,0.0,1,false_morel
+download (1).jpeg,1,1.0,1,false_morel
+download (10).jpeg,1,1.0,1,false_morel
+download (11).jpeg,0,0.0,1,false_morel
+download (12).jpeg,1,1.0,1,false_morel
+download (13).jpeg,1,1.0,1,false_morel
+download (14).jpeg,1,1.0,1,false_morel
+download (15).jpeg,1,1.0,1,false_morel
+download (16).jpeg,1,1.0,1,false_morel
+download (17).jpeg,1,1.0,1,false_morel
+download (18).jpeg,1,1.0,1,false_morel
+download (19).jpeg,1,1.0,1,false_morel
+download (2).jpeg,1,1.0,1,false_morel
+download (20).jpeg,1,1.0,1,false_morel
+download (21).jpeg,1,1.0,1,false_morel
+download (22).jpeg,1,1.0,1,false_morel
+download (23).jpeg,1,1.0,1,false_morel
+download (24).jpeg,1,1.0,1,false_morel
+download (25).jpeg,1,1.0,1,false_morel
+download (26).jpeg,1,1.0,1,false_morel
+download (27).jpeg,1,1.0,1,false_morel
+download (28).jpeg,1,1.0,1,false_morel
+download (29).jpeg,1,1.0,1,false_morel
+download (3).jpeg,1,1.0,1,false_morel
+download (30).jpeg,1,0.9999998807907104,1,false_morel
+download (31).jpeg,1,1.0,1,false_morel
+download (32).jpeg,1,1.0,1,false_morel
+download (33).jpeg,1,1.0,1,false_morel
+download (34).jpeg,1,1.0,1,false_morel
+download (35).jpeg,1,1.0,1,false_morel
+download (36).jpeg,1,1.0,1,false_morel
+download (37).jpeg,1,1.0,1,false_morel
+download (38).jpeg,1,1.0,1,false_morel
+download (4).jpeg,1,1.0,1,false_morel
+download (5).jpeg,0,0.0,1,false_morel
+download (6).jpeg,1,1.0,1,false_morel
+download (7).jpeg,1,1.0,1,false_morel
+download (8).jpeg,1,1.0,1,false_morel
+download (9).jpeg,1,1.0,1,false_morel
+false_morel1000.png,1,1.0,1,false_morel
+false_morel1001.png,1,1.0,1,false_morel
+false_morel1002.png,0,0.0,1,false_morel
+false_morel1003.png,0,1.3456122244511948e-21,1,false_morel
+false_morel1004.png,1,1.0,1,false_morel
+false_morel1005.png,1,1.0,1,false_morel
+false_morel1006.png,1,1.0,1,false_morel
+false_morel1007.png,1,1.0,1,false_morel
+false_morel1008.png,1,1.0,1,false_morel
+false_morel1009.png,1,1.0,1,false_morel
+false_morel1010.png,0,0.0,1,false_morel
+false_morel1011.png,1,1.0,1,false_morel
+false_morel1012.png,1,1.0,1,false_morel
+false_morel1013.png,1,1.0,1,false_morel
+false_morel1014.png,1,1.0,1,false_morel
+false_morel1015.png,1,1.0,1,false_morel
+false_morel1016.png,1,1.0,1,false_morel
+false_morel1017.png,1,1.0,1,false_morel
+false_morel1018.png,1,1.0,1,false_morel
+false_morel1019.png,1,1.0,1,false_morel
+false_morel1020.png,1,1.0,1,false_morel
+false_morel1021.png,1,1.0,1,false_morel
+false_morel1022.png,1,1.0,1,false_morel
+false_morel1023.png,1,1.0,1,false_morel
+false_morel1024.png,1,1.0,1,false_morel
+false_morel1025.png,0,0.0,1,false_morel
+false_morel1026.png,0,0.0,1,false_morel
+false_morel1027.png,1,1.0,1,false_morel
+false_morel1028.png,1,1.0,1,false_morel
+false_morel1029.png,1,1.0,1,false_morel
+false_morel1030.png,1,1.0,1,false_morel
+false_morel1031.png,1,1.0,1,false_morel
+false_morel1032.png,0,0.0,1,false_morel
+false_morel1033.png,1,1.0,1,false_morel
+false_morel1034.png,1,1.0,1,false_morel
+false_morel1035.png,1,1.0,1,false_morel
+false_morel1036.png,0,0.0,1,false_morel
+false_morel1037.png,1,1.0,1,false_morel
+false_morel1038.png,1,1.0,1,false_morel
+false_morel1039.png,0,0.0,1,false_morel
+false_morel1040.png,1,1.0,1,false_morel
+false_morel1041.png,1,1.0,1,false_morel
+false_morel1042.png,1,1.0,1,false_morel
+false_morel1043.png,0,0.0,1,false_morel
+false_morel1044.png,1,1.0,1,false_morel
+false_morel1045.png,1,1.0,1,false_morel
+false_morel1046.png,1,1.0,1,false_morel
+false_morel1047.png,1,1.0,1,false_morel
+false_morel1048.png,1,1.0,1,false_morel
+false_morel1049.png,1,1.0,1,false_morel
+false_morel1050.png,1,1.0,1,false_morel
+false_morel1051.png,1,1.0,1,false_morel
+false_morel1052.png,1,1.0,1,false_morel
+false_morel1053.png,1,1.0,1,false_morel
+false_morel1054.png,1,1.0,1,false_morel
+false_morel1055.png,1,1.0,1,false_morel
+false_morel1056.png,1,1.0,1,false_morel
+false_morel1057.png,0,0.0,1,false_morel
+false_morel1058.png,1,1.0,1,false_morel
+false_morel1059.png,1,1.0,1,false_morel
+false_morel1060.png,1,1.0,1,false_morel
+false_morel1061.png,1,1.0,1,false_morel
+false_morel1062.png,1,1.0,1,false_morel
+false_morel1063.png,1,1.0,1,false_morel
+false_morel1064.png,1,1.0,1,false_morel
+false_morel1065.png,1,1.0,1,false_morel
+false_morel1066.png,0,0.0,1,false_morel
+false_morel1067.png,1,1.0,1,false_morel
+false_morel1068.png,1,1.0,1,false_morel
+false_morel1069.png,0,0.0,1,false_morel
+false_morel1070.png,1,1.0,1,false_morel
+false_morel1071.png,1,1.0,1,false_morel
+false_morel1072.png,1,1.0,1,false_morel
+false_morel1073.png,1,1.0,1,false_morel
+false_morel1074.png,0,0.0,1,false_morel
+false_morel1075.png,1,1.0,1,false_morel
+false_morel1076.png,1,1.0,1,false_morel
+false_morel1077.png,1,1.0,1,false_morel
+false_morel1078.png,1,1.0,1,false_morel
+false_morel1079.png,1,1.0,1,false_morel
+false_morel1080.png,0,0.0,1,false_morel
+false_morel1081.png,1,1.0,1,false_morel
+false_morel1082.png,1,1.0,1,false_morel
+false_morel1083.png,1,1.0,1,false_morel
+false_morel1084.png,1,1.0,1,false_morel
+false_morel1085.png,1,1.0,1,false_morel
+false_morel1086.png,0,0.0,1,false_morel
+false_morel1087.png,1,1.0,1,false_morel
+false_morel1088.png,1,1.0,1,false_morel
+false_morel1089.png,1,1.0,1,false_morel
+false_morel1090.png,1,1.0,1,false_morel
+false_morel1091.png,1,1.0,1,false_morel
+false_morel1092.png,1,1.0,1,false_morel
+false_morel1093.png,1,1.0,1,false_morel
+false_morel1094.png,1,1.0,1,false_morel
+false_morel1095.png,1,1.0,1,false_morel
+false_morel1096.png,1,1.0,1,false_morel
+false_morel1097.png,1,1.0,1,false_morel
+false_morel1098.png,1,1.0,1,false_morel
+false_morel1099.png,1,1.0,1,false_morel
+false_morel1100.png,1,1.0,1,false_morel
+false_morel1101.png,0,3.3724904653783136e-17,1,false_morel
+false_morel1102.png,1,1.0,1,false_morel
+false_morel1103.png,1,1.0,1,false_morel
+false_morel1104.png,1,1.0,1,false_morel
+false_morel1105.png,1,1.0,1,false_morel
+false_morel1106.png,0,0.0,1,false_morel
+false_morel1107.png,1,1.0,1,false_morel
+false_morel1108.png,0,0.0,1,false_morel
+false_morel1109.png,0,0.0,1,false_morel
+false_morel1111.png,1,1.0,1,false_morel
+false_morel1112.png,1,1.0,1,false_morel
+false_morel1113.png,0,0.0,1,false_morel
+false_morel1114.png,1,1.0,1,false_morel
+false_morel1115.png,1,1.0,1,false_morel
+false_morel1116.png,0,0.0,1,false_morel
+false_morel1117.png,0,0.0,1,false_morel
+false_morel1118.png,0,0.0,1,false_morel
+false_morel1119.png,0,0.0,1,false_morel
+false_morel1120.png,1,1.0,1,false_morel
+false_morel1121.png,0,0.0,1,false_morel
+false_morel1122.png,0,0.0,1,false_morel
+false_morel1123.png,1,1.0,1,false_morel
+false_morel1124.png,1,1.0,1,false_morel
+false_morel1125.png,1,1.0,1,false_morel
+false_morel1126.png,1,1.0,1,false_morel
+false_morel1127.png,0,0.0,1,false_morel
+false_morel897.png,1,1.0,1,false_morel
+false_morel898.png,0,0.0,1,false_morel
+false_morel899.png,1,1.0,1,false_morel
+false_morel900.png,1,1.0,1,false_morel
+false_morel901.png,0,0.0,1,false_morel
+false_morel902.png,1,1.0,1,false_morel
+false_morel903.png,1,1.0,1,false_morel
+false_morel904.png,1,1.0,1,false_morel
+false_morel905.png,1,1.0,1,false_morel
+false_morel906.png,1,1.0,1,false_morel
+false_morel907.png,1,1.0,1,false_morel
+false_morel908.png,1,1.0,1,false_morel
+false_morel909.png,1,1.0,1,false_morel
+false_morel910.png,1,1.0,1,false_morel
+false_morel911.png,1,1.0,1,false_morel
+false_morel912.png,1,1.0,1,false_morel
+false_morel913.png,1,1.0,1,false_morel
+false_morel914.png,1,1.0,1,false_morel
+false_morel915.png,0,0.0,1,false_morel
+false_morel916.png,1,1.0,1,false_morel
+false_morel917.png,1,1.0,1,false_morel
+false_morel918.png,1,1.0,1,false_morel
+false_morel919.png,0,8.042214894032895e-09,1,false_morel
+false_morel920.png,1,1.0,1,false_morel
+false_morel921.png,1,1.0,1,false_morel
+false_morel922.png,1,1.0,1,false_morel
+false_morel923.png,1,1.0,1,false_morel
+false_morel924.png,1,1.0,1,false_morel
+false_morel925.png,1,1.0,1,false_morel
+false_morel926.png,1,0.9999980926513672,1,false_morel
+false_morel927.png,1,1.0,1,false_morel
+false_morel928.png,1,1.0,1,false_morel
+false_morel929.png,1,1.0,1,false_morel
+false_morel930.png,1,0.9999531507492065,1,false_morel
+false_morel931.png,1,1.0,1,false_morel
+false_morel932.png,0,0.0,1,false_morel
+false_morel933.png,1,1.0,1,false_morel
+false_morel934.png,1,1.0,1,false_morel
+false_morel935.png,1,1.0,1,false_morel
+false_morel936.png,1,1.0,1,false_morel
+false_morel937.png,1,1.0,1,false_morel
+false_morel938.png,1,1.0,1,false_morel
+false_morel939.png,1,1.0,1,false_morel
+false_morel940.png,1,1.0,1,false_morel
+false_morel941.png,1,1.0,1,false_morel
+false_morel942.png,1,1.0,1,false_morel
+false_morel943.png,1,1.0,1,false_morel
+false_morel944.png,1,1.0,1,false_morel
+false_morel945.png,1,1.0,1,false_morel
+false_morel946.png,0,0.0,1,false_morel
+false_morel947.png,0,0.0,1,false_morel
+false_morel948.png,1,1.0,1,false_morel
+false_morel949.png,1,1.0,1,false_morel
+false_morel950.png,1,1.0,1,false_morel
+false_morel951.png,1,1.0,1,false_morel
+false_morel952.png,0,0.0,1,false_morel
+false_morel953.png,0,0.0,1,false_morel
+false_morel954.png,1,1.0,1,false_morel
+false_morel955.png,0,0.0,1,false_morel
+false_morel956.png,1,1.0,1,false_morel
+false_morel957.png,0,4.69097150013198e-10,1,false_morel
+false_morel958.png,1,1.0,1,false_morel
+false_morel959.png,1,1.0,1,false_morel
+false_morel960.png,1,1.0,1,false_morel
+false_morel961.png,1,0.8880388736724854,1,false_morel
+false_morel962.png,0,0.0,1,false_morel
+false_morel963.png,1,1.0,1,false_morel
+false_morel964.png,1,1.0,1,false_morel
+false_morel965.png,1,1.0,1,false_morel
+false_morel966.png,1,1.0,1,false_morel
+false_morel967.png,1,1.0,1,false_morel
+false_morel968.png,0,0.0,1,false_morel
+false_morel969.png,0,0.0,1,false_morel
+false_morel970.png,1,1.0,1,false_morel
+false_morel971.png,0,0.0,1,false_morel
+false_morel972.png,1,1.0,1,false_morel
+false_morel973.png,1,1.0,1,false_morel
+false_morel974.png,1,1.0,1,false_morel
+false_morel975.png,1,1.0,1,false_morel
+false_morel976.png,0,6.971257176206085e-37,1,false_morel
+false_morel977.png,1,1.0,1,false_morel
+false_morel978.png,1,1.0,1,false_morel
+false_morel979.png,1,1.0,1,false_morel
+false_morel980.png,1,1.0,1,false_morel
+false_morel981.png,1,1.0,1,false_morel
+false_morel982.png,1,1.0,1,false_morel
+false_morel983.png,1,1.0,1,false_morel
+false_morel984.png,1,1.0,1,false_morel
+false_morel985.png,1,1.0,1,false_morel
+false_morel986.png,1,1.0,1,false_morel
+false_morel987.png,0,0.0,1,false_morel
+false_morel988.png,1,1.0,1,false_morel
+false_morel989.png,0,0.0,1,false_morel
+false_morel990.png,1,1.0,1,false_morel
+false_morel991.png,1,1.0,1,false_morel
+false_morel992.png,0,1.2915414384132538e-15,1,false_morel
+false_morel993.png,1,1.0,1,false_morel
+false_morel994.png,1,1.0,1,false_morel
+false_morel995.png,1,1.0,1,false_morel
+false_morel996.png,0,0.0,1,false_morel
+false_morel997.png,1,1.0,1,false_morel
+false_morel998.png,1,1.0,1,false_morel
+false_morel999.png,0,0.0,1,false_morel
