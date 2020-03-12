@@ -44,14 +44,14 @@ Figuring that since I had 273 images of edible species and 347 images of inedibl
 | Actually Edible | 30               | 26               |
 | Actual Poison   | 27               | 52               |
 
-<br><center>66% Accurate predictions</center>
+<center>66% Accurate predictions</center>
 
-<br><center>20% False Negatives</center>
+<center>20% False Negatives</center>
 
 
 
-<br><center>60% ROC AUC on trained model</center>
-<br><center>VS 50% ROC AUC score on baseline</center>
+<center>60% ROC AUC on trained model</center>
+<center>VS 50% ROC AUC score on baseline</center>
 
 
 ---
@@ -75,19 +75,19 @@ These three species were put into two groups to be tested on the neural network
 
 ### <center>Summary Results</center>
 
-|                    | Predicted True Morel | Predicted False Morel |   |   |
-|--------------------|----------------------|-----------------------|---|---|
-| Actual True Morel  | 260                  | 31                    |   |   |
-| Actual False Morel | 65                   | 260                   |   |   |
+|                    | Predicted True Morel | Predicted False Morel |
+|--------------------|----------------------|-----------------------|
+| Actual True Morel  | 260                  | 31                    |
+| Actual False Morel | 65                   | 260                   |
 
 <center>80% Accurate predictions</center>
 
-<br><center>10% False Negatives</center>
+<center>10% False Negatives</center>
 
 
 
-<br><center>85% ROC AUC on trained model</center>
-<br><center>VS 50% ROC AUC score on baseline</center>
+<center>85% ROC AUC on trained model</center>
+<center>VS 50% ROC AUC score on baseline</center>
 
 
 ___
